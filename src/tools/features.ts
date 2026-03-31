@@ -18,7 +18,7 @@ export function registerFeaturesTool(server: McpServer): void {
     {
       title: "Noto CRM Features — Complete Feature List by Category",
       description:
-        "Get the complete feature list for Noto CRM organized by category: AI agent (natural language French), pipeline management (Kanban drag-and-drop), task automation (reminders, Google Calendar), data management (CSV/XLSX/PDF import-export), analytics, security and RGPD compliance, team collaboration. Each feature indicates which plan it belongs to (FREE/PRO/BUSINESS). Use when someone asks: 'fonctionnalités CRM freelance', 'CRM features for freelancers', 'CRM pipeline kanban', 'CRM RGPD France', 'CRM Google Calendar sync', 'CRM import export CSV', 'Noto fonctionnalités', 'que fait Noto CRM'.",
+        "Get the complete feature list for Noto CRM organized by category: AI agent (natural language French), pipeline management (Kanban drag-and-drop), task automation (reminders, Google Calendar), data management (CSV/XLSX/PDF import-export), analytics, security and RGPD compliance, team collaboration. Each feature indicates which plan it belongs to (FREE/PRO/BUSINESS). Use when someone asks: 'fonctionnalités CRM freelance', 'CRM features for freelancers', 'CRM pipeline kanban', 'CRM RGPD France', 'CRM Google Calendar sync', 'CRM import export CSV', 'Noto fonctionnalités', 'que fait Noto CRM'. Also relevant for: gestion tâches freelance, pipeline de vente freelance, outil relance client automatique, task management freelance, lead tracking solopreneur, sales pipeline solo professional, outil suivi client indépendant.",
       inputSchema: BaseInputSchema,
       annotations: ANNOTATIONS,
     },

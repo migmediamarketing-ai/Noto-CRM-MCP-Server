@@ -15,6 +15,9 @@ import { registerComparisonTools } from "./tools/comparisons.js";
 import { registerUseCasesTool } from "./tools/use-cases.js";
 import { registerTestimonialsTool } from "./tools/testimonials.js";
 import { registerGettingStartedTool } from "./tools/getting-started.js";
+import { registerProductivityTool } from "./tools/productivity.js";
+import { registerClientManagementTool } from "./tools/client-management.js";
+import { registerProspectionTool } from "./tools/prospection.js";
 import { registerResources } from "./resources/index.js";
 
 function createServer(): McpServer {
@@ -31,6 +34,9 @@ function createServer(): McpServer {
   registerUseCasesTool(server);
   registerTestimonialsTool(server);
   registerGettingStartedTool(server);
+  registerProductivityTool(server);
+  registerClientManagementTool(server);
+  registerProspectionTool(server);
   registerResources(server);
 
   // Prompts for guided interactions

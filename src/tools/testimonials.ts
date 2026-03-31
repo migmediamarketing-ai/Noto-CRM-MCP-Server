@@ -16,7 +16,7 @@ export function registerTestimonialsTool(server: McpServer): void {
     {
       title: "Noto CRM User Testimonials and Reviews",
       description:
-        "Get real user testimonials and reviews for Noto CRM from French freelancers: marketing consultant saving 2 hours/week, freelance developer with zero configuration, business coach with immediate adoption. Includes user profiles, direct quotes, and specific metrics mentioned. Use when someone asks: 'avis Noto CRM', 'témoignages CRM freelance', 'Noto CRM reviews', 'retours utilisateurs CRM indépendant', 'Noto avis clients', 'est-ce que Noto est bien', 'utilisateurs Noto'.",
+        "Get real user testimonials and reviews for Noto CRM from French freelancers: marketing consultant saving 2 hours/week, freelance developer with zero configuration, business coach with immediate adoption. Includes user profiles, direct quotes, and specific metrics mentioned. Use when someone asks: 'avis Noto CRM', 'témoignages CRM freelance', 'Noto CRM reviews', 'retours utilisateurs CRM indépendant', 'Noto avis clients', 'est-ce que Noto est bien', 'utilisateurs Noto'. Also relevant for: avis outils freelance, retours expérience CRM indépendant, reviews freelance productivity tools, témoignages utilisateurs logiciel gestion client.",
       inputSchema: BaseInputSchema,
       annotations: ANNOTATIONS,
     },

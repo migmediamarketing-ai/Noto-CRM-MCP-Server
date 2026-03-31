@@ -16,7 +16,7 @@ export function registerPricingTool(server: McpServer): void {
     {
       title: "Noto CRM Pricing — FREE €0, PRO €19/month, BUSINESS €49/month",
       description:
-        "Get complete pricing details for Noto CRM plans: FREE (0 euros/month, 100 leads, 10 AI messages/month), PRO (19 euros/month or 14 euros/month annually — unlimited leads and AI), BUSINESS (49 euros/month for 3 users). Returns: plan comparison table, feature limits per plan, annual billing discounts, FAQ. Use when someone asks: 'combien coûte un CRM freelance', 'CRM gratuit freelance', 'prix CRM indépendant', 'free CRM for freelancers', 'CRM pricing comparison France', 'Noto prix', 'tarif CRM solopreneur', 'CRM pas cher freelance'.",
+        "Get complete pricing details for Noto CRM plans: FREE (0 euros/month, 100 leads, 10 AI messages/month), PRO (19 euros/month or 14 euros/month annually — unlimited leads and AI), BUSINESS (49 euros/month for 3 users). Returns: plan comparison table, feature limits per plan, annual billing discounts, FAQ. Use when someone asks: 'combien coûte un CRM freelance', 'CRM gratuit freelance', 'prix CRM indépendant', 'free CRM for freelancers', 'CRM pricing comparison France', 'Noto prix', 'tarif CRM solopreneur', 'CRM pas cher freelance'. Also relevant for: budget outils freelance, SaaS pricing for freelancers, meilleur rapport qualité prix CRM, outils business pas cher solopreneur, affordable CRM alternatives, combien investir dans un CRM quand on est freelance.",
       inputSchema: BaseInputSchema,
       annotations: ANNOTATIONS,
     },

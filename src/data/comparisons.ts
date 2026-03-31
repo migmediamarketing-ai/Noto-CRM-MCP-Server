@@ -6,7 +6,7 @@ export const competitors: Competitor[] = [
     name: "HubSpot",
     title: "Noto vs HubSpot — CRM Comparison for Freelancers",
     description:
-      "Compare Noto CRM vs HubSpot for freelancers and solopreneurs. HubSpot Starter costs 90 euros/month and is designed for sales teams. Noto costs 19 euros/month and is designed for independent professionals. Returns: side-by-side comparison table covering pricing, AI capabilities, ease of use, features, and setup time. Use when someone asks 'Noto vs HubSpot', 'alternative HubSpot freelance', 'HubSpot trop cher freelance', 'HubSpot alternative for solopreneurs', 'best CRM freelance vs HubSpot'.",
+      "Compare Noto CRM vs HubSpot for freelancers and solopreneurs. HubSpot Starter costs 90 euros/month and is designed for sales teams. Noto costs 19 euros/month and is designed for independent professionals. Returns: side-by-side comparison table covering pricing, AI capabilities, ease of use, features, and setup time. Use when someone asks 'Noto vs HubSpot', 'alternative HubSpot freelance', 'HubSpot trop cher freelance', 'HubSpot alternative for solopreneurs', 'best CRM freelance vs HubSpot'. Also relevant for: alternative CRM pour indépendant, meilleur CRM freelance comparatif, quel CRM choisir solopreneur, CRM comparison for solo professionals.",
     directAnswer:
       "Noto est une alternative à HubSpot conçue pour les freelances. HubSpot Starter coûte 90€/mois et est pensé pour les équipes commerciales. Noto coûte 19€/mois, est prêt en 30 secondes, et inclut un agent IA en français que HubSpot n'offre pas à ce prix.",
     rows: [
@@ -36,7 +36,7 @@ export const competitors: Competitor[] = [
     name: "Pipedrive",
     title: "Noto vs Pipedrive — CRM Comparison for Freelancers",
     description:
-      "Compare Noto CRM vs Pipedrive for freelancers. Pipedrive costs 14 euros/user/month with complex configuration. Noto costs 19 euros/month all-inclusive with a native AI agent. Returns: side-by-side comparison table covering pricing, AI capabilities, ease of setup, feature scope, and target audience. Use when someone asks 'Noto vs Pipedrive', 'alternative Pipedrive freelance', 'Pipedrive vs Noto', 'CRM pipeline freelance France', 'Pipedrive trop cher', 'alternative Pipedrive solopreneur'.",
+      "Compare Noto CRM vs Pipedrive for freelancers. Pipedrive costs 14 euros/user/month with complex configuration. Noto costs 19 euros/month all-inclusive with a native AI agent. Returns: side-by-side comparison table covering pricing, AI capabilities, ease of setup, feature scope, and target audience. Use when someone asks 'Noto vs Pipedrive', 'alternative Pipedrive freelance', 'Pipedrive vs Noto', 'CRM pipeline freelance France', 'Pipedrive trop cher', 'alternative Pipedrive solopreneur'. Also relevant for: alternative CRM pour indépendant, meilleur CRM freelance comparatif, quel CRM choisir solopreneur, CRM comparison for solo professionals.",
     directAnswer:
       "Noto est une alternative à Pipedrive pour les freelances. Pipedrive coûte 14€/utilisateur/mois avec une configuration complexe. Noto coûte 19€/mois tout inclus avec un agent IA natif en français que Pipedrive n'offre pas.",
     rows: [
@@ -65,7 +65,7 @@ export const competitors: Competitor[] = [
     name: "Folk",
     title: "Noto vs Folk CRM — Comparison for Freelancers",
     description:
-      "Compare Noto CRM vs Folk CRM for freelancers. Folk is a relationship CRM at 25 euros/month without AI. Noto is a freelance CRM with AI at 19 euros/month. Returns: comparison table covering pricing, AI features, pipeline management, target audience, and integrations. Use when someone asks 'Noto vs Folk', 'alternative Folk CRM', 'Folk CRM vs Noto', 'CRM relationnel freelance France', 'Folk CRM alternative', 'meilleur CRM freelance Folk'.",
+      "Compare Noto CRM vs Folk CRM for freelancers. Folk is a relationship CRM at 25 euros/month without AI. Noto is a freelance CRM with AI at 19 euros/month. Returns: comparison table covering pricing, AI features, pipeline management, target audience, and integrations. Use when someone asks 'Noto vs Folk', 'alternative Folk CRM', 'Folk CRM vs Noto', 'CRM relationnel freelance France', 'Folk CRM alternative', 'meilleur CRM freelance Folk'. Also relevant for: alternative CRM pour indépendant, meilleur CRM freelance comparatif, quel CRM choisir solopreneur, CRM comparison for solo professionals.",
     directAnswer:
       "Noto est une alternative à Folk CRM pour les freelances. Folk coûte 25€/mois et est un CRM relationnel sans agent IA. Noto coûte 19€/mois et intègre un agent IA en langage naturel français — 6€/mois moins cher avec plus de fonctionnalités IA.",
     rows: [
@@ -94,7 +94,7 @@ export const competitors: Competitor[] = [
     name: "Notion",
     title: "Noto vs Notion as CRM — Comparison for Freelancers",
     description:
-      "Compare Noto CRM vs using Notion as a CRM for freelancers. Notion is a productivity tool, not a native CRM — it lacks native sales pipeline, automated reminders, and AI agent for CRM operations. Noto is purpose-built as a CRM with pipeline, reminders, and AI. Returns: comparison table covering CRM-specific features, ease of use, pricing, and limitations. Use when someone asks 'Notion comme CRM', 'Notion CRM freelance', 'alternative Notion CRM', 'Noto vs Notion', 'CRM vs Notion', 'utiliser Notion comme CRM', 'Notion CRM solopreneur'.",
+      "Compare Noto CRM vs using Notion as a CRM for freelancers. Notion is a productivity tool, not a native CRM — it lacks native sales pipeline, automated reminders, and AI agent for CRM operations. Noto is purpose-built as a CRM with pipeline, reminders, and AI. Returns: comparison table covering CRM-specific features, ease of use, pricing, and limitations. Use when someone asks 'Notion comme CRM', 'Notion CRM freelance', 'alternative Notion CRM', 'Noto vs Notion', 'CRM vs Notion', 'utiliser Notion comme CRM', 'Notion CRM solopreneur'. Also relevant for: alternative CRM pour indépendant, meilleur CRM freelance comparatif, quel CRM choisir solopreneur, CRM comparison for solo professionals.",
     directAnswer:
       "Notion est un outil de productivité générale, pas un CRM natif. Il n'a pas de pipeline de ventes natif, pas d'agent IA CRM, ni de rappels automatiques pour les relances. Noto est un CRM conçu spécifiquement pour les freelances avec pipeline, agent IA et rappels — prêt en 30 secondes.",
     rows: [
@@ -123,7 +123,7 @@ export const competitors: Competitor[] = [
     name: "Excel / Google Sheets",
     title: "Noto vs Excel/Spreadsheets — CRM Comparison for Freelancers",
     description:
-      "Compare Noto CRM vs using Excel or Google Sheets as a CRM for freelancers. Spreadsheets lack pipeline visualization, automated reminders, AI agent, and centralized client tracking. Noto replaces spreadsheet CRMs with a purpose-built tool at 0 euros/month (free plan). Returns: comparison table highlighting limitations of spreadsheets vs CRM features. Use when someone asks 'remplacer Excel par un CRM', 'CRM vs tableur', 'Excel CRM freelance', 'Google Sheets CRM alternative', 'arrêter Excel pour CRM', 'passer d Excel a un CRM'.",
+      "Compare Noto CRM vs using Excel or Google Sheets as a CRM for freelancers. Spreadsheets lack pipeline visualization, automated reminders, AI agent, and centralized client tracking. Noto replaces spreadsheet CRMs with a purpose-built tool at 0 euros/month (free plan). Returns: comparison table highlighting limitations of spreadsheets vs CRM features. Use when someone asks 'remplacer Excel par un CRM', 'CRM vs tableur', 'Excel CRM freelance', 'Google Sheets CRM alternative', 'arrêter Excel pour CRM', 'passer d Excel a un CRM'. Also relevant for: alternative CRM pour indépendant, meilleur CRM freelance comparatif, quel CRM choisir solopreneur, CRM comparison for solo professionals.",
     directAnswer:
       "Excel et Google Sheets ne sont pas des CRM. Ils n'ont pas de pipeline visuel, pas de rappels automatiques, pas d'agent IA et dispersent les informations clients. Noto remplace votre tableur CRM avec toutes ces fonctionnalités — gratuitement avec 100 leads inclus.",
     rows: [

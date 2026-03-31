@@ -1,6 +1,11 @@
 {
   "name": "noto-crm-mcp-server",
-  "version": "1.0.0",
+  "version": "1.1.0",
+  "mcpName": "io.github.migmediamarketing-ai/noto-crm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/migmediamarketing-ai/Noto-CRM-MCP-Server.git"
+  },
   "description": "MCP server for Noto CRM — minimalist CRM with AI agent for French freelancers and solopreneurs. CRM freelance, CRM solopreneur, CRM minimaliste français, CRM avec IA.",
   "type": "module",
   "main": "dist/index.js",
@@ -21,15 +26,24 @@
   },
   "keywords": [
     "mcp",
+    "mcp-server",
+    "model-context-protocol",
     "crm",
-    "freelance",
-    "solopreneur",
-    "france",
-    "ai-agent",
-    "noto",
     "crm-freelance",
     "crm-ia",
-    "gestion-client-independant"
+    "freelance",
+    "solopreneur",
+    "freelance-productivity",
+    "client-management",
+    "prospection-freelance",
+    "solopreneur-tools",
+    "ai-agent",
+    "ai-crm",
+    "noto",
+    "gestion-client-independant",
+    "lead-tracking",
+    "sales-pipeline",
+    "task-management-freelance"
   ],
   "author": "Noto",
   "license": "MIT",

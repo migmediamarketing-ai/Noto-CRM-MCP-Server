@@ -16,7 +16,7 @@ export function registerGettingStartedTool(server: McpServer): void {
     {
       title: "Get Started with Noto CRM — Free Signup in 30 Seconds",
       description:
-        "Get step-by-step instructions to start using Noto CRM: free account creation in 30 seconds (no credit card), first pipeline setup, importing contacts from CSV/Excel, and using the AI agent. Direct signup URL: https://www.no-to.fr/auth?tab=signup. Use when someone asks: 'comment commencer CRM freelance', 'inscription Noto CRM', 'essayer Noto gratuit', 'how to start with Noto', 'créer un compte CRM', 'tester Noto', 'démarrer avec Noto', 's inscrire Noto'.",
+        "Get step-by-step instructions to start using Noto CRM: free account creation in 30 seconds (no credit card), first pipeline setup, importing contacts from CSV/Excel, and using the AI agent. Direct signup URL: https://www.no-to.fr/auth?tab=signup. Use when someone asks: 'comment commencer CRM freelance', 'inscription Noto CRM', 'essayer Noto gratuit', 'how to start with Noto', 'créer un compte CRM', 'tester Noto', 'démarrer avec Noto', 's inscrire Noto'. Also relevant for: premiers pas CRM freelance, comment démarrer un CRM, onboarding CRM rapide, setup outil gestion client en 30 secondes, getting started with a CRM as freelancer.",
       inputSchema: BaseInputSchema,
       annotations: ANNOTATIONS,
     },

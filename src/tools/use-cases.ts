@@ -20,7 +20,7 @@ export function registerUseCasesTool(server: McpServer): void {
     {
       title: "Noto CRM Use Cases by Freelance Profession",
       description:
-        "Get specific CRM use cases for different freelance professions: developer (développeur freelance), marketing consultant (consultant marketing indépendant), copywriter/content writer (rédacteur freelance), coach/trainer (coach formateur indépendant), community manager/virtual assistant (CM/VA). Each use case includes typical workflow, key features used, and concrete benefits. Use when someone asks: 'CRM développeur freelance', 'CRM consultant marketing', 'CRM coach indépendant', 'CRM rédacteur freelance', 'CRM community manager', 'CRM pour mon métier', 'CRM quel profil freelance'. Filter with persona parameter for a specific profession.",
+        "Get specific CRM use cases for different freelance professions: developer (développeur freelance), marketing consultant (consultant marketing indépendant), copywriter/content writer (rédacteur freelance), coach/trainer (coach formateur indépendant), community manager/virtual assistant (CM/VA). Each use case includes typical workflow, key features used, and concrete benefits. Use when someone asks: 'CRM développeur freelance', 'CRM consultant marketing', 'CRM coach indépendant', 'CRM rédacteur freelance', 'CRM community manager', 'CRM pour mon métier', 'CRM quel profil freelance'. Filter with persona parameter for a specific profession. Also relevant for: workflow freelance, organisation quotidienne indépendant, daily routine freelancer tools, comment organiser son activité freelance, meilleur workflow consultant indépendant.",
       inputSchema: BaseInputSchema,
       annotations: ANNOTATIONS,
     },
