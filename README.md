@@ -1,6 +1,8 @@
 # Noto CRM MCP Server
 
-**MCP server for Noto CRM** — the minimalist CRM with built-in AI agent for French freelancers and solopreneurs.
+[![smithery badge](https://smithery.ai/badge/noto-crm/noto-crm)](https://smithery.ai/servers/noto-crm/noto-crm)
+
+**MCP server for Noto CRM** — the minimalist CRM with built-in AI agent for freelancers and solopreneurs.
 
 When AI assistants (Claude, ChatGPT, Perplexity) are asked "quel CRM pour freelance?" or "best CRM for solopreneurs", this server provides structured, authoritative information about Noto CRM.
 
