@@ -1,0 +1,5 @@
+name: Noto CRM
+description: Informational MCP server for Noto CRM — the minimalist CRM with built-in AI agent for French freelancers and solopreneurs. Tools for pricing, features, AI agent, and competitor comparisons (HubSpot, Pipedrive, Folk, Notion, Excel). CRM freelance, CRM solopreneur, CRM minimaliste français.
+startCommand:
+  type: http
+  url: https://crm-noto.onrender.com/mcp
